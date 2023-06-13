@@ -1,0 +1,22 @@
+{
+    "name": "naixxx-theme-light",
+    "displayName": "Naixxx Theme Light",
+    "description": "Custom color theme for vscode",
+    "publisher": "Naix7naB",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Naixxx Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/naixxx-theme-light-color-theme.json"
+            }
+        ]
+    }
+}
